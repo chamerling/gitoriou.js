@@ -1,0 +1,36 @@
+{
+  "name": "gitoriou.js",
+  "version": "0.0.1",
+  "description": "Get gitorious information as JSON",
+  "author": "Christophe Hamerling <christophe.hamerling@gmail.com>",
+  "homepage": "http://github.com/chamerling/gitoriou.js",
+  "keywords": [
+    "node",
+    "gitorious"
+  ],
+  "maintainers": [{
+    "name": "Christophe Hamerling",
+    "email": "christophe.hamerling@gmail.com"
+  }],
+  "licenses": [{
+    "type": "MIT",
+    "url": "http://mths.be/mit"
+  }],
+  "bugs": {
+    "url": "https://github.com/chamerling/gitoriou.js/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/chamerling/gitoriou.js.git"
+  },
+  "engines": {
+    "node": "0.6.x",
+    "npm": "1.0.x"
+  },
+  "dependencies": {
+    "pkginfo": "latest",
+    "underscore": "latest",
+    "xml2js": "latest",
+    "request": "latest"
+  }
+}

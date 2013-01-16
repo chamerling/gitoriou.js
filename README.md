@@ -1,4 +1,7 @@
-gitoriou.js
-===========
+# gitoriou.js
 
-Gitorious client to get gitorious information as JSON
+Client to get gitorious information as JSON.
+
+## Usage
+
+Check examples folder
