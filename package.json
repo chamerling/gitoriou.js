@@ -1,6 +1,6 @@
 {
   "name": "gitoriou.js",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Get gitorious information as JSON",
   "author": "Christophe Hamerling <christophe.hamerling@gmail.com>",
   "homepage": "http://github.com/chamerling/gitoriou.js",
